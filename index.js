@@ -11,7 +11,7 @@ const html404 = `<!DOCTYPE html>
 <body>
   <h1>404 Not Found.</h1>
   <p>The url you visit is not found.</p>
-  <p> <a href="https://github.com/crazypeace/Url-Shorten-Worker/" target="_self">Fork me on GitHub</a> </p>
+  <p> <a href="https://github.com/w1501052468/Url-Shorten-Worker/" target="_self">Fork me on GitHub</a> </p>
 </body>
 </html>`
 
