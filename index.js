@@ -186,7 +186,7 @@ async function handleRequest(request) {
   
   // 如果path符合password 显示应用界面
   if (path==password_value){  
-    let index= await fetch("https://crazypeace.github.io/Url-Shorten-Worker/"+config.theme+"/index.html")
+    let index= await fetch("https://w1501052468.github.io/kingdwz/"+config.theme+"/index.html")
     index=await index.text()
     index=index.replace(/__PASSWORD__/gm, password_value)
     return new Response(index, {
