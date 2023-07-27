@@ -175,7 +175,7 @@ async function handleRequest(request) {
 
   console.log(path)
   if(!path){
-    return Response.redirect("https://zelikk.blogspot.com/search/label/Url-Shorten-Worker", 302)
+    return Response.redirect("https://king.freekj.link", 302)
     /* new Response(html404, {
       headers: {
         "content-type": "text/html;charset=UTF-8",
